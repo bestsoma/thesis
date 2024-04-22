@@ -1,0 +1,5 @@
+dataset/
+data2/
+.virtual_documents/
+.ipynb_checkpoints/
+Finetuning/
